@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm **nxyzo**, a Junior System Administrator passionate about Linux, containerization, virtualization, automation (especially with Ansible), and building cool projects in my homelab. I’m constantly exploring new tech and looking for challenging opportunities to expand my skills.
+I'm **nxyzo**, a System Administrator passionate about Linux, containerization, virtualization, automation (especially with Ansible), and building cool projects in my homelab. I’m constantly exploring new tech and looking for challenging opportunities to expand my skills.
 
 🧑‍🎓 Currently working in IT in Cologne  
 🐧 Linux | Containerization | Virtualization | Ansible Automation  
