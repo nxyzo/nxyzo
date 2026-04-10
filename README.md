@@ -7,6 +7,6 @@ I'm **nxyzo**, a System Administrator passionate about Linux, containerization, 
 🚀 **Currently working on:**  
 - **pgcontainer-backup:** A powerful script for backing up PostgreSQL databases from containers with compression, encryption, and much more.  
 - **Debian Netboot Server:** An easy and fast setup for Debian network installations.
-- **home-ops-test**: An git driven Talos Kubernetes Cluster for testing purposes.
+- **home-ops-test**: An git driven talos kubernetes cluster for testing purposes.
 
 📧 Feel free to reach out via [email](mailto:contact@nxyzo.com)
